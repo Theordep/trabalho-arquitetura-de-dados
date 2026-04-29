@@ -10,16 +10,6 @@ Projeto acadêmico (Engenharia de Dados) com **PySpark**, **Delta Lake** e **Apa
 - **Java 8+** (JRE ou JDK). O Spark precisa de **`JAVA_HOME`** e do **`java`** no `PATH` (reinicie o terminal após configurar). Para menos surpresas no ecossistema Spark 3.5, prefira **JDK 11 ou 17** ([Eclipse Temurin](https://adoptium.net/)).
 - **[uv](https://docs.astral.sh/uv/)** (opcional: `pip install uv` e use `python -m uv`).
 
-### Windows (Hadoop “fake” + Delta)
-
-No Windows, o Spark/HDFS local costuma exigir **`winutils.exe`** e **`hadoop.dll`** compatíveis com o Hadoop embutido no PySpark (~3.3.x). Este repositório inclui `tools/hadoop/bin/` (fonte comum da comunidade: [cdarlint/winutils](https://github.com/cdarlint/winutils)).
-
-Os notebooks **ajustam sozinhos** `HADOOP_HOME` e o `PATH` se essa pasta existir. Opcionalmente você pode definir no sistema:
-
-- `HADOOP_HOME` = caminho absoluto até `...\tools\hadoop`
-- No `Path` do usuário: `%HADOOP_HOME%\bin` **antes** de outros Java antigos.
-
-Ao encerrar o Spark, o Windows às vezes mostra aviso ao apagar JARs em `%TEMP%` — costuma ser inofensivo.
 
 ## Clonar e instalar
 
