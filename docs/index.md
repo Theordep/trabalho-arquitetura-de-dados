@@ -2,6 +2,8 @@
 
 Este site documenta o trabalho de **Arquitetura de Dados** sobre **Apache Spark** com **Delta Lake** e **Apache Iceberg**.
 
+**Enunciado (PDF):** no repositório em `PDFS-APOIO/Trabalho_Apache_Spark_-_Delta_Lake_e_Apache_Iceberg-69e022f947e74.pdf` — [abrir no GitHub](https://github.com/Theordep/trabalho-arquitetura-de-dados/blob/main/PDFS-APOIO/Trabalho_Apache_Spark_-_Delta_Lake_e_Apache_Iceberg-69e022f947e74.pdf).
+
 ## Objetivo
 
 Demonstrar, em ambiente local com **PySpark** e notebooks **Jupyter**:

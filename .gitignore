@@ -22,5 +22,8 @@ metastore_db/
 data/processed/
 data/warehouse/
 
-# Materiais da disciplina (opcional: remova esta linha se quiser versionar PDFs)
-*.pdf
+# Metastore / warehouse quando notebooks rodam com CWD em notebooks/
+notebooks/spark-warehouse/
+notebooks/data/
+notebooks/metastore_db/
+notebooks/derby.log

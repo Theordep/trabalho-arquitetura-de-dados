@@ -41,8 +41,8 @@ Legenda: `[x]` atendido no código/docs desta pasta · `[ ]` pendente ou valida�
 
 | Item | Status |
 |------|--------|
-| Pasta `Trabalho-EngDados-ApacheSpark` com `.git` | `[ ]` *não há `.git` aqui — se o código está só local, faça `git init` ou clone do GitHub e copie estes arquivos antes do push* |
-| Push com `uv.lock`, notebooks, `docs/`, sem segredos | `[ ]` |
+| Repositório com histórico em `main` | `[x]` *(push já realizado anteriormente)* |
+| Manter `main` atualizado com entregas finais | `[ ]` |
 
 ---
 
