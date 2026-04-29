@@ -1,6 +1,8 @@
 # Trabalho — Apache Spark, Delta Lake e Apache Iceberg
 
-Repositório alvo: **[github.com/Theordep/trabalho-arquitetura-de-dados](https://github.com/Theordep/trabalho-arquitetura-de-dados)**
+Repositório: **[github.com/Theordep/trabalho-arquitetura-de-dados](https://github.com/Theordep/trabalho-arquitetura-de-dados)**
+
+Documentação publicada: **[theordep.github.io/trabalho-arquitetura-de-dados](https://Theordep.github.io/trabalho-arquitetura-de-dados/)**
 
 Projeto acadêmico (Engenharia de Dados) com **PySpark**, **Delta Lake** e **Apache Iceberg**, notebooks **Jupyter** e documentação **MkDocs**. O PDF do enunciado está em `PDFS-APOIO/Trabalho_Apache_Spark_-_Delta_Lake_e_Apache_Iceberg-69e022f947e74.pdf`.
 

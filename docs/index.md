@@ -19,9 +19,13 @@ Código, notebooks e instruções de reprodução do ambiente estão no GitHub:
 
 **[github.com/Theordep/trabalho-arquitetura-de-dados](https://github.com/Theordep/trabalho-arquitetura-de-dados)**
 
+Documentação publicada: **[theordep.github.io/trabalho-arquitetura-de-dados](https://Theordep.github.io/trabalho-arquitetura-de-dados/)**
+
 ## Equipe
 
-- *(Preencher nomes dos integrantes.)*
+- Pedro Ernesto
+- Carlos Eduardo
+- Axel Filastro
 
 ## Fontes sugeridas na disciplina
 
